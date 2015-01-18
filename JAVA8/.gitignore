@@ -1,0 +1,14 @@
+# maven target
+/target/
+
+#java class
+*.class
+
+#eclipse related
+.project
+.classpath
+.settings/
+
+# git merge backup
+*.bak
+*.orig
